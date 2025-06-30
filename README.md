@@ -1,4 +1,3 @@
-# cmapss-predictive-maintenance-ml
 # Predictive Maintenance of Aircraft Engines using Machine Learning
 
 This project implements a complete machine learning pipeline for **predictive maintenance** using the **NASA CMAPSS dataset**. The objective is to classify aircraft engine health into three categories: **Healthy**, **Warning**, and **Imminent Failure**, based on sensor data and time-series feature engineering.
